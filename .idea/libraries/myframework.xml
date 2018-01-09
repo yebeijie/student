@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myframework">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/edu/aten/myframework/1.0-SNAPSHOT" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
